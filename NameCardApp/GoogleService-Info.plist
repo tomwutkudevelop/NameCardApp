@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>532345472498-q148fqluq700ucuebgjua8c0c7dgovi7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.532345472498-q148fqluq700ucuebgjua8c0c7dgovi7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDam6M8d9yL6GPdH4kCn6k3GlMn0YEyOhY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>532345472498</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tomwu.NameCardApp</string>
+	<key>PROJECT_ID</key>
+	<string>namecardapp-ac430</string>
+	<key>STORAGE_BUCKET</key>
+	<string>namecardapp-ac430.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:532345472498:ios:b9f868a946c7a78e54976b</string>
+	<key>DATABASE_URL</key>
+	<string>https://namecardapp-ac430.firebaseio.com</string>
+</dict>
+</plist>

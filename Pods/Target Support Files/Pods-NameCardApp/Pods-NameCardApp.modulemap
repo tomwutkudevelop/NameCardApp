@@ -1,0 +1,6 @@
+framework module Pods_NameCardApp {
+  umbrella header "Pods-NameCardApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

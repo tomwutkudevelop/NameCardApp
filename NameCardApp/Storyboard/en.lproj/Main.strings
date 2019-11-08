@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "JWr-8P-vAT"; */
+"JWr-8P-vAT.text" = "Welcome";
+
+/* Class = "UILabel"; text = "NameCard App"; ObjectID = "sna-wp-mat"; */
+"sna-wp-mat.text" = "NameCard App";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "vvi-3o-DvV"; */
+"vvi-3o-DvV.title" = "Login";
